@@ -1,7 +1,7 @@
 Install OCaml from source
 -------------------------
 
-* download ocaml-4.00.1.tar.gz
+* download [ocaml-4.00.1.tar.gz](http://caml.inria.fr/distrib/ocaml-4.00/ocaml-4.00.1.tar.gz)
 * tar zxvf path/to/ocaml-4.00.1.tar.gz 
 * cd ocaml-4.00.1
 * ./configure -prefix $HOME
